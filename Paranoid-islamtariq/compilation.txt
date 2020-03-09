@@ -1,0 +1,9 @@
+Download and install MASM32 SDK : http://www.masm32.com/
+Download and install DOSBOX : https://www.dosbox.com/
+
+
+1) Compilation using MASM32
+
+ C:\masm32\bin\ml.exe /Bl C:\masm32\bin\link16.exe paranoid.asm
+
+2) After that We will get paranoid.exe file. RUN it using DosBox emulator. 
